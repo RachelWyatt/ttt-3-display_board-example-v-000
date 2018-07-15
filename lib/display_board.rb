@@ -1,6 +1,4 @@
-# Define a method display_board that prints a 3x3 Tic Tac Toe Board
-def display_board
-  puts "Test text"
+def print_one_plus_one
+  puts 1+1
 end
-display_board
-$ ruby display_board.#!/usr/bin/env ruby -wKU
+
