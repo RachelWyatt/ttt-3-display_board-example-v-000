@@ -1,3 +1,7 @@
 def display_board
-  puts "test text"
+  puts "   " "|" "   " "|" "   "
+  puts "-----------"
+  puts "   " "|" "   " "|" "   "
+  puts "----------"
+  puts "   " "|" "   " "|" "   "
 end
